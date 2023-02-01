@@ -227,7 +227,7 @@ function MyForm() {
         </select>
         </label>
     
-    <input clss="button" type="submit" />
+    <input class="button" type="submit" />
 </form>
   )
 }
